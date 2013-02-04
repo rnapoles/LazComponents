@@ -1,0 +1,11 @@
+backup
+/CompletionProposal/lib
+*.exe
+*.bak
+*.ppu
+*.o
+*.or
+*.compiled
+*.f
+*.dcu
+*.dpk
